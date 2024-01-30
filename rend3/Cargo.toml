@@ -58,7 +58,7 @@ serde = { version = "1", features = ["derive"] }
 smallvec = "1"
 smartstring = "1.0"
 thiserror = "1"
-wgpu = "0.18.0"
+wgpu = "0.18"
 wgpu-profiler = "0.15.0"
 
 [dev-dependencies]
